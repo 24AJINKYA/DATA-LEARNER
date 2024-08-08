@@ -18,7 +18,9 @@ Upcoming integration with a database to store and manage user data securely.
 This project aims to create an engaging and interactive platform, with ongoing improvements to enhance its functionality and user experience.
 
 ## Live Demo
- ## You can view the live version of the website https://24ajinkya.github.io/DATA-LEARNER/home.html.
+ ## You can view the live version of the website 
+ 
+ https://24ajinkya.github.io/DATA-LEARNER/home.html.
 
 ### This project aims to create an engaging and interactive platform, with ongoing improvements to enhance its functionality and user experience.
 
