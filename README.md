@@ -1,4 +1,4 @@
-# DATA LEARNER WEBSITE .
+# DATA LEARNER WEBSITE 
 
 ## Overview
 This project is a fully functional front-end website designed for a Data Learner and Happiness Center. The website has been crafted using HTML, CSS, and JavaScript to provide a user-friendly and visually appealing experience.
